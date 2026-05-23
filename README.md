@@ -27,8 +27,3 @@ This project focuses on helping users understand spending behavior and spending 
 - Weekly reports
 - Spending insights
 - Data visualization
-
-## Run Locally
-
-```bash
-python main.py
